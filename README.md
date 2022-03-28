@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @hbycht.
-- 👀  I’m interested in generative arts & design.
+- 👀  I’m interested in design, generative arts & software development.
 - 🌱  I’m currently learning the full-stack path on www.codecademy.com.
-- 💞️  I’m looking to collaborate on a visual engine for web applications for some magic generative backgrounds.
+- 💞️  I’m looking to collaborate on a visual engine for web applications for some magical generative backgrounds.
 - 📫  Get in touch and say hello@henningbrode.de.
 
 <!---
